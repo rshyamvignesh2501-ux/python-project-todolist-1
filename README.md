@@ -3,7 +3,7 @@ Built with a focus on ease of use and minimal design.
 
 Features
 ✅ Add, edit, and delete tasks
-📅 Set due dates and priorities
-🔍 Search and filter tasks
-💾 Save tasks locally (or to a database)
-🌙 Light/Dark mode support
+📅 Update task status
+🔍 View Task
+💾 Exit the task
+
